@@ -1,0 +1,42 @@
+﻿{
+  "name": "Trackers by Raikaru",
+  "packages": [
+    {
+      "name": "Raikaru Packages",
+      "author": "Raikaru",
+      "game_name": "Ocarina of Time Randomizer",
+      "flags": [
+        "chathud"
+      ],
+      "version": "7.3",
+      "uid": "ootrando_raikaru",
+      "link": "https://raikaru13.github.io/ootrando_raikaru/ootrando_raikaru.zip",
+      "variants": [
+        {
+          "name": "Standard",
+          "flags": [
+            "chathud"
+          ]
+        },
+        {
+          "name": "Keysanity",
+          "flags": [
+            "chathud"
+          ]
+        },
+        {
+          "name": "Advanced",
+          "flags": [
+            "chathud"
+          ]
+        },
+        {
+          "name": "Atz Compact",
+          "flags": [
+            "chathud"
+          ]
+        }
+      ]
+    }
+  ]
+}
