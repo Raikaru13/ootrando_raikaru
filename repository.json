@@ -20,9 +20,9 @@
         },
         {
           "name": "Atz Compact",
-          "flags": [
-            "chathud"
-          ]
+        },
+        {
+          "name": "Atz Compact + Keysanity",
         },
         {
           "name": "Keysanity",
